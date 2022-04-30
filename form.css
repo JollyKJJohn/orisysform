@@ -1,0 +1,146 @@
+.container{
+	border: 2px solid 	#FF4500;
+	width: 700px;
+	height: auto;
+	margin: auto;
+}
+.logo img{
+	width: 600px;
+	height: 180px;
+	/*margin-top: 10px;
+	margin-left: 10px;*/
+	padding-top: 12px;
+	padding-left: 15px;
+}
+.label1,.label2,.label3,.label4,.label5,.label6{
+	display: flex;
+	margin-top: 25px;
+	margin-left: 20px;
+
+}
+.name1,.name2,.name3,.name4,.name5,.name6{
+	margin: auto;
+	
+}
+.ag{
+	margin-left: 245px;
+
+}
+.ph{
+	margin-left: 180px;
+
+}
+.qua{
+	margin-left: 190px;
+
+}
+.pass{
+	margin-left: 190px;
+}
+
+
+
+.label7{
+	display: flex;
+	margin-top: 25px;
+	margin-left: 20px;
+
+}
+.name7{
+	margin: auto;
+	height: 80px;
+	width: 260px;
+	margin-left: 220px;
+}
+.label8{
+	display: flex;
+	margin-left: 20px;
+	margin-top: 15px;
+
+
+}
+.name8{
+	margin-top: 15px;
+	margin-left: 140px;
+
+}
+.label9{
+	display:flex;
+	margin-left: 20px;
+
+}
+.name9{
+	margin: auto;
+	height: 80px;
+	width: 260px;
+}
+.exp{
+	margin-left: 180px;
+}
+.label10{
+	display:flex;
+	margin-left: 20px;
+
+
+}
+.check{
+	margin-top: 15px;
+	margin-left: 50px;
+
+}
+.label11{
+
+	display: flex;
+	margin-left: 20px;
+
+
+}
+.check2{
+	margin-top: 15px;
+	margin-left: 150px;
+}
+.label12{
+	display: flex;
+	margin-left: 20px;
+}
+.ref{
+	height: 80px;
+	width: 260px;
+	margin-top: 15px;
+	margin-left: 160px;
+
+
+}
+.label13{
+	margin-left: 80px;
+}
+.footer{
+	background-color: black;
+	color: white;
+	padding: 10px;
+	}
+	.footerflex{
+		display: flex;
+		justify-content: space-between;
+	}
+	.innerfooter{
+		width: 40%;
+	}
+	.address{
+		display: flex;
+		margin:5px;
+	}
+
+	.address img{
+		width: 20px;
+		height: 20px;
+		margin-right:10px;
+	}
+	.social{
+		display: flex;
+		justify-content:space-around;
+	}
+	.social img{
+		width: 30px;
+		height: 30px;
+	}
